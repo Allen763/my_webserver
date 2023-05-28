@@ -1,2 +1,2 @@
 # my_webserver
-My Tiny Linux Webserver
+My Linux Webserver
